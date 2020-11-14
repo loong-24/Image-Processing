@@ -18,6 +18,9 @@
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
 - - -
+***C/C++***
+- 南方科大: [C/C++程序设计](https://space.bilibili.com/519963684/channel/detail?cid=149591)
+- - -
 ***Deep Learning***
 - 李宏毅: [深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [B站](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), [B站](https://www.bilibili.com/video/BV1dv411v7Ly)
