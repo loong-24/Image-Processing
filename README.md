@@ -34,6 +34,9 @@
   - [Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg)
   - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
+- Pyotch Lighting
+  - [[Docs](https://pytorch-lightning.readthedocs.io/en/latest/)]
+  - [[Style guide](https://pytorch-lightning.readthedocs.io/en/latest/style_guide.html)]
 - - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
