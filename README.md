@@ -16,6 +16,7 @@
 - Boyd: [Convex Optimization](http://web.stanford.edu/class/ee364a/index.html), [B站](https://www.bilibili.com/video/BV1Pg4y187Ed)
 - shuhuai008: [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd)
 - 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
+- University of Tübingen, [Mathematics for Machine Learning](https://www.bilibili.com/video/BV1Zf4y1B7Gz),  Prof. Ulrike von Luxburg
 - - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
