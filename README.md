@@ -18,6 +18,7 @@
 - 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
 - University of Tübingen: [Mathematics for Machine Learning](https://www.bilibili.com/video/BV1Zf4y1B7Gz),  Prof. Ulrike von Luxburg
 - Richard McElrea: [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020)
+- [The Elements of Statistical Learning](https://github.com/szcf-weiya/ESL-CN)
 - - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
