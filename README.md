@@ -16,7 +16,8 @@
 - Boyd: [Convex Optimization](http://web.stanford.edu/class/ee364a/index.html), [B站](https://www.bilibili.com/video/BV1Pg4y187Ed)
 - shuhuai008: [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd)
 - 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
-- University of Tübingen, [Mathematics for Machine Learning](https://www.bilibili.com/video/BV1Zf4y1B7Gz),  Prof. Ulrike von Luxburg
+- University of Tübingen: [Mathematics for Machine Learning](https://www.bilibili.com/video/BV1Zf4y1B7Gz),  Prof. Ulrike von Luxburg
+- Richard McElrea: [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020)
 - - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
@@ -46,4 +47,5 @@
 - [Understanding Machine Learning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Machine learning: a Bayesian and optimization perspective](https://github.com/loong-24/Image-Processing/blob/main/docs/High-Dimensional%20ProbabilityAn%20Introduction%20with%20Applications%20in%20Data%20Science.pdf)
 - [High-Dimensional Probability](https://github.com/loong-24/Image-Processing/blob/main/docs/Theodoridis%20-%202015%20-%20Machine%20learning%20a%20Bayesian%20and%20optimization%20pers.pdf)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html), [arxiv](https://arxiv.org/pdf/1802.01528.pdf)
 
