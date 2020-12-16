@@ -20,9 +20,9 @@
 - Richard McElrea: [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020)
 - [The Elements of Statistical Learning](https://github.com/szcf-weiya/ESL-CN)
 - Google Research: 
-  - Automatic differentiation, [[slides](https://mblondel.org/teaching/autodiff-2020.pdf)], [[notebook](https://colab.research.google.com/github/mblondel/teaching/blob/main/autodiff-2020/autodiff_lab_work.ipynb)]
-  - Duality, [[slides](https://mblondel.org/teaching/duality-2020.pdf)], [[notebook](https://colab.research.google.com/github/mblondel/teaching/blob/main/duality-2020/duality_lab_work.ipynb)]
-  - Beyond gradient descent, [[slides](http://www.mblondel.org/teaching/beyond-gd-2020.pdf)]
+  - Automatic differentiation, [[slides](https://mblondel.org/teaching/autodiff-2020.pdf)], [[notebook](https://colab.research.google.com/github/mblondel/teaching/blob/main/autodiff-2020/autodiff_lab_work.ipynb)], [[Code](https://github.com/mblondel/teaching/tree/main/autodiff-2020)]
+  - Duality, [[slides](https://mblondel.org/teaching/duality-2020.pdf)], [[notebook](https://colab.research.google.com/github/mblondel/teaching/blob/main/duality-2020/duality_lab_work.ipynb)], [[Code](https://github.com/mblondel/teaching/tree/main/duality-2020)]
+  - Beyond gradient descent, [[slides](http://www.mblondel.org/teaching/beyond-gd-2020.pdf)], [[Code](https://github.com/mblondel/teaching/tree/main/beyond-gd-2020)]
 - - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
