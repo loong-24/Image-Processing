@@ -37,7 +37,8 @@
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), [B站](https://www.bilibili.com/video/BV1dv411v7Ly)
 - - -
 **Tutorials**
-- OpenCV: [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- OpenCV
+  - [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
   - [[learn-opencv](https://github.com/spmallick/learnopencv)]
   - [[OpenCV-Python-Tutorial](https://github.com/CodecWang/OpenCV-Python-Tutorial)]
 - Pytorch
