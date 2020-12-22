@@ -26,8 +26,8 @@
 - - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
-- [[Python-tutorial](http://www.ityouknow.com/python.html)]
-- [[Python-100-Days](https://github.com/jackfrued/Python-100-Days)]
+- [Python-tutorial](http://www.ityouknow.com/python.html)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 - - -
 ***C/C++***
 - 南方科大: [C/C++程序设计](https://space.bilibili.com/519963684/channel/detail?cid=149591)
