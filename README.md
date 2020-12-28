@@ -45,6 +45,7 @@
   - [Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
   - [Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg)
   - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+  - [OpenMMLab PyTorch 源码解读](https://www.zhihu.com/column/c_1316816403623084032)
   - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
 - Pyotch Lighting
   - [Docs](https://pytorch-lightning.readthedocs.io/en/latest/)
