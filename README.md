@@ -31,6 +31,8 @@
 - - -
 ***C/C++***
 - 南方科大: [C/C++程序设计](https://space.bilibili.com/519963684/channel/detail?cid=149591)
+- 浙大: [程序设计入门——C语言](https://www.icourse163.org/course/ZJU-199001)
+- 浙大: [C语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
 - - -
 ***Deep Learning***
 - 李宏毅: [深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [B站](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
