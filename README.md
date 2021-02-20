@@ -1,6 +1,6 @@
 # Image-Processing Video Lectures
 
-***Image Processing***
+***Image/Video Processing***
 - Duke University: [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.bilibili.com/video/BV1j7411i78H)
 - CMU: [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/), [[知乎专栏](https://zhuanlan.zhihu.com/hawkcp)]
 - IIT Kanpur: [Digital Image Processing](https://nptel.ac.in/courses/117/105/117105079/), Prof. P.K. Biswas
