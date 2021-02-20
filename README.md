@@ -43,6 +43,7 @@
   - [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
   - [learn-opencv](https://github.com/spmallick/learnopencv)
   - [OpenCV-Python-Tutorial](https://github.com/CodecWang/OpenCV-Python-Tutorial)
+  - [OpenCV with Python in 4 Hours](https://github.com/jasmcaus/opencv-course)
 - Pytorch
   - [Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
   - [Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg)
