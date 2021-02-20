@@ -56,6 +56,7 @@
 - FFmpeg
   - [Awesome FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
   - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
+  - [useful FFmpeg commands for archivist](https://github.com/amiaopensource/ffmprovisr)
 - - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
