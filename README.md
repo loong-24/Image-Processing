@@ -6,6 +6,7 @@
 - IIT Kanpur: [Digital Image Processing](https://nptel.ac.in/courses/117/105/117105079/), Prof. P.K. Biswas
 - TU München: [Computer Vision I: Variational Methods](https://vision.in.tum.de/teaching/online/cvvm), Prof. Daniel Cremers
 - ETH Zurich: [Quantitative Big Imaging: From Images to Statistics](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019S&ansicht=KATALOGDATEN&lerneinheitId=128120&lang=en), [[Github](https://github.com/kmader/Quantitative-Big-Imaging-2019)], [[Youtube](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)]
+- [Digital_Video_Introduction](https://github.com/leandromoreira/digital_video_introduction)
 - - -
 ***Mathematics***
 - MIT: [Linear Algebra by Gilbert Strang](https://www.bilibili.com/video/BV1ix411f7Yp?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ%2FwbjxJZ55Ydur%2Bhgks6vZs%3D)
