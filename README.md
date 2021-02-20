@@ -53,6 +53,9 @@
 - Pyotch Lighting
   - [Docs](https://pytorch-lightning.readthedocs.io/en/latest/)
   - [Style guide](https://pytorch-lightning.readthedocs.io/en/latest/style_guide.html)
+- FFmpeg
+  - [Awesome FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
+  - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 - - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
