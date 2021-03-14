@@ -53,6 +53,7 @@
   - [Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg)
   - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
   - [OpenMMLab PyTorch 源码解读](https://www.zhihu.com/column/c_1316816403623084032)
+  - [C++ extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html)
   - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
 - Pyotch Lighting
   - [Docs](https://pytorch-lightning.readthedocs.io/en/latest/)
