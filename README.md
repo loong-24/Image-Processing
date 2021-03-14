@@ -38,9 +38,9 @@
 - - -
 ***Deep Learning***
 - 李宏毅: [深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [B站](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
-- 李宏毅: [机器学习2021版(https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)], [[B站](https://www.bilibili.com/video/BV11K4y1S7AD)]
+- 李宏毅: [机器学习2021版](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html), [B站](https://www.bilibili.com/video/BV11K4y1S7AD)
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), [B站](https://www.bilibili.com/video/BV1dv411v7Ly)
-- Sergey Levine: [CS 182. Designing, Visualizing and Understanding Deep Neural Networks(https://www2.eecs.berkeley.edu/Courses/CS182/)], [B站(https://www.bilibili.com/video/BV1PK4y1U751)]
+- Sergey Levine: [CS 182. Designing, Visualizing and Understanding Deep Neural Networks](https://www2.eecs.berkeley.edu/Courses/CS182/), [B站](https://www.bilibili.com/video/BV1PK4y1U751)
 - - -
 **Tutorials**
 - OpenCV
