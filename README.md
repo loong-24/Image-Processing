@@ -27,6 +27,10 @@
   - Beyond gradient descent, [[slides](http://www.mblondel.org/teaching/beyond-gd-2020.pdf)], [[Code](https://github.com/mblondel/teaching/tree/main/beyond-gd-2020)]
 - - -
 ***Python***
+- [Real Python](https://realpython.com/start-here/)
+  - [Go From Basic to Intermediate](https://realpython.com/python-basics/)
+  - [Mastering Python](https://realpython.com/intermediate-python/)
+  - [How You Can Switch Languages And Get Up to Speed With Python as Quickly as Possible](https://realpython.com/switching-to-python/)
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
 - [Python-tutorial](http://www.ityouknow.com/python.html)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
@@ -55,6 +59,7 @@
   - [OpenMMLab PyTorch 源码解读](https://www.zhihu.com/column/c_1316816403623084032)
   - [C++ extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html)
   - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
+  - [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/#setup)
 - Pyotch Lighting
   - [Docs](https://pytorch-lightning.readthedocs.io/en/latest/)
   - [Style guide](https://pytorch-lightning.readthedocs.io/en/latest/style_guide.html)
