@@ -46,6 +46,10 @@
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), [B站](https://www.bilibili.com/video/BV1dv411v7Ly)
 - Sergey Levine: [CS 182. Designing, Visualizing and Understanding Deep Neural Networks](https://www2.eecs.berkeley.edu/Courses/CS182/), [B站](https://www.bilibili.com/video/BV1PK4y1U751)
 - - -
+**Workshops**
+- Deep Internal Learning @ECCV2020 [Project](https://sites.google.com/view/deepinternallearning), [Video](https://www.youtube.com/watch?v=tjxII31RegQ&t=387s)
+
+- - -
 **Tutorials**
 - OpenCV
   - [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
