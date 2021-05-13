@@ -64,6 +64,7 @@
   - [C++ extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html)
   - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
   - [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/#setup)
+  - [A Few Helpful PyTorch Tips](https://colab.research.google.com/drive/15vGzXs_ueoKL0jYpC4gr9BCTfWt935DC?usp=sharing), [[Video](https://www.youtube.com/watch?v=BoC8SGaT3GE)]
 - NN-by-Numpy
   - [NN-by-Numpy](https://github.com/leeroee/NN-by-Numpy) 
 - Pyotch Lighting
